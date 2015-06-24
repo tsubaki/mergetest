@@ -182,7 +182,7 @@ GameObject:
   - 4: {fileID: 1700278129}
   - 114: {fileID: 1700278128}
   m_Layer: 0
-  m_Name: Original
+  m_Name: B1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8195f8fe3e8a4af28ee5ed9db2c44ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  count: 0
+  count: 1
 --- !u!4 &1700278129
 Transform:
   m_ObjectHideFlags: 0
